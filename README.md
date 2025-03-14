@@ -4,7 +4,7 @@
 
 This project demonstrates a Retrieval-Augmented Generation (RAG) system in Google Colab for various cyber applications. It enables users to ask questions about cyber forensics reports, threat intelligence, security documentation, or other cyber-related texts, and receive answers based on the information within those documents.
 
-[![Open In Colab](https://colab.research.google.com/github/MohitD017/Colab_RAG_CyberForensics/blob/main/Colab_RAG.ipynb)](https://colab.research.google.com/github/MohitD017/Colab_RAG_CyberForensics/blob/main/Colab_RAG.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/MohitD017/Colab_RAG_CyberForensics/blob/main/Colab_RAG.ipynb)
 
 ##   Dependencies
 
